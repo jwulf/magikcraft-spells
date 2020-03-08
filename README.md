@@ -1,3 +1,3 @@
-# Magikcraf Spells
+# Magikcraft Spells
 
 Magikcraft code
