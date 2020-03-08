@@ -1,0 +1,2 @@
+# magikcraft-spells
+Magikcraft code
